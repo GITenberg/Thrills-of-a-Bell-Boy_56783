@@ -1,5 +1,5 @@
 _repo: Thrills-of-a-Bell-Boy_56783
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: McCutcheon, John T. (John Tinney)
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '8700'
     url: http://www.gutenberg.org/2009/agents/8700
     wikipedia: http://en.wikipedia.org/wiki/John_T._McCutcheon
+covers:
+- cover_type: archival
+  image_path: 56783-h/images/cover.jpg
 creator:
   author:
     agent_name: Kiser, Samuel E. (Samuel Ellsworth)
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '39539'
     url: http://www.gutenberg.org/2009/agents/39539
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56783#Thrills-of-a-Bell-Boy
 gutenberg_issued: '2018-03-18'
 gutenberg_type: Text
 identifiers:
